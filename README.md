@@ -13,17 +13,18 @@ https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
 
 ## 3 class classification
 
-| Model                         | Epoki | Accuracy | Precision | Recall | F1 Score |
+| Model                         | Epochs| Accuracy | Precision | Recall | F1 Score |
 |-------------------------------|-------|----------|-----------|--------|----------|
 | CNN1                          | 5     | 89.35%   | 89.4%     | 89.4%  | 89.3%    |
 | CNN2                          | 10    | 93.94%   | 94.2%     | 93.9%  | 93.9%    |
 | U-Net                         | 100   | 98.49%   | 98.55%    | 98.48% | 98.48%   |
 | ResNet (Pretrained)           | 100   | 100.0%   | 100.0%    | 100.0% | 100.0%   |
 
+![Alt text](images/class3/confusion_matrix_plot_CNN_V1_epochs_15.png)
 
 ## Binary classification 
 
-| Model                         | Epoki | Accuracy | Precision | Recall | F1 Score |
+| Model                         | Epochs| Accuracy | Precision | Recall | F1 Score |
 |-------------------------------|-------|----------|-----------|--------|----------|
 | CNN1                          | 20    | 96.97%   | 97.11%    | 96.97% | 96.95%   |
 | CNN2                          | 20    | 100.0%   | 100.0%    | 100.0% | 100.0%   |
