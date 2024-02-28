@@ -21,6 +21,7 @@ https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
 | ResNet (Pretrained)           | 100   | 100.0%   | 100.0%    | 100.0% | 100.0%   |
 
 ![Alt text](images/class3/confusion_matrix_plot_CNN_V1_epochs_15.png)
+*test*
 
 ## Binary classification 
 
